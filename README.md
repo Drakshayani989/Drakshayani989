@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Drakshayani Kinjarapu</h1>
-<h3 align="center">Full Stack Developer | ML/DL Enthusiast</h3>
+<h3 align="center">Aspiring Full Stack Developer|Data Analyst | ML/DL Enthusiast</h3>
 
 ---
 
@@ -7,8 +7,8 @@
 
 - 💻 Interested in **Full Stack Development**
 - 🤖 Exploring **Machine Learning & Deep Learning**
-- ⚛️ Experienced with **React Frontend Development**
-- 🧠 Practicing **DSA using Java**
+- ⚛️ Experienced with **Frontend Development**
+- 🧠 Practicing **DSA**
 - 🚀 Building real world projects
 
 ---
@@ -28,7 +28,6 @@
 
 ### 🗄 Database
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
 
 ### 🤖 Machine Learning
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
@@ -54,8 +53,6 @@
 
 ## 📌 Projects
 
-- 🎤 **Voice Based Calculator**
-- 🔐 **Password Generator**
 - 📊 **Retail Sales Analysis**
 - 🎓 **EduEvents Platform**
 
