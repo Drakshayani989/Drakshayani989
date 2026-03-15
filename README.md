@@ -29,12 +29,18 @@
 ### 🗄 Database
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 
-### 🤖 Machine Learning
+## 📊 Data Analysis
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
-![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
 
+## 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visual-studio-code)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel)
 ---
 
 ## 📊 GitHub Stats
