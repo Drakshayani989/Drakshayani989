@@ -60,7 +60,7 @@
 ## 📌 Projects
 
 - 📊 **Retail Sales Analysis**
-- 🎓 **EduEvents Platform**
+- 🎓 **LearnX Platform**
 
 ---
 
