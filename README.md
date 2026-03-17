@@ -6,7 +6,7 @@
 ## 👩‍💻 About Me
 
 - 💻 Interested in **Full Stack Development**
-- 🤖 Exploring **Machine Learning & Deep Learning**
+- 🤖 Exploring **Machine Learning & Deep Learning and Quantum computing**
 - ⚛️ Experienced with **Frontend Development**
 - 🧠 Practicing **DSA**
 - 🚀 Building real world projects
