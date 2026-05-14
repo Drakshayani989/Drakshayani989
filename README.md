@@ -45,11 +45,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drakshayani989&show_icons=true&theme=tokyonight)
+![Drakshayani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drakshayani989&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Drakshayani989&layout=compact&theme=tokyonight)
-
----
 
 ## 🔥 GitHub Streak
 
