@@ -1,65 +1,83 @@
-<h1 align="center">Hi 👋, I'm Drakshayani Kinjarapu</h1>
-<h3 align="center">Aspiring Full Stack Developer|Data Analyst | ML/DL Enthusiast</h3>
+<h1 align="center">Drakshayani Kinjarapu</h1>
+
+<p align="center">
+  Full Stack Developer • Data Analyst • ML Enthusiast
+</p>
+
+<p align="center">
+  <a href="https://github.com/Drakshayani989">GitHub</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="mailto:yourmail@gmail.com">Email</a>
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-- 💻 Interested in **Full Stack Development**
-- 🤖 Exploring **Machine Learning & Deep Learning and Quantum computing**
-- ⚛️ Experienced with **Frontend Development**
-- 🧠 Practicing **DSA**
-- 🚀 Building real world projects
+Passionate developer focused on building scalable web applications, exploring machine learning, and solving real-world problems through technology.
 
----
-
-## 🚀 Tech Stack
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?logo=tailwindcss)
-
-### ⚙ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-green?logo=node.js)
-![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
-
-### 🗄 Database
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-
-## 📊 Data Analysis
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
-
-## 🛠 Tools
-
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
-![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visual-studio-code)
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel)
----
-
-## 📊 GitHub Stats
-
-![Drakshayani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drakshayani989&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Drakshayani989&layout=compact&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Drakshayani989&theme=tokyonight)
+- Full Stack Development
+- Data Analytics & Visualization
+- Machine Learning & Deep Learning
+- Problem Solving & DSA
+- Building practical projects
 
 ---
 
-## 📌 Projects
+## Tech Stack
 
-- 📊 **Retail Sales Analysis**
-- 🎓 **LearnX Platform**
+### Languages
+![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat&logo=mysql)
+
+### Frontend
+![React](https://img.shields.io/badge/React-111111?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=flat&logo=tailwindcss)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js)
+![PHP](https://img.shields.io/badge/PHP-111111?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat&logo=mysql)
+
+### Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat&logo=numpy)
+![PowerBI](https://img.shields.io/badge/PowerBI-111111?style=flat&logo=powerbi)
 
 ---
 
-⭐ *Always learning and building cool projects*
+## GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Drakshayani989&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakshayani989&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Projects
+
+### Retail Sales Analysis
+Data analytics project focused on extracting business insights and visualizing sales trends.
+
+### LearnX Platform
+Full stack learning platform built with modern web technologies.
+
+---
+
+## Currently Exploring
+
+- Machine Learning
+- Deep Learning
+- Quantum Computing
+- Scalable Web Applications
+
+---
+
+<p align="center">
+  Building • Learning • Improving
+</p>
