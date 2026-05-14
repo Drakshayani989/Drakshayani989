@@ -62,4 +62,4 @@
 
 ---
 
-⭐ *Always learning and building cool projects*  idhi thisukoni naku inka manchi readme file ivvu very clean and very minamalist chala professional ga vundali
+⭐ *Always learning and building cool projects* 
