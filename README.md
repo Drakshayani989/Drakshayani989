@@ -55,11 +55,4 @@
 
 ---
 
-## 📌 Projects
-
-- 📊 **Retail Sales Analysis**
-- 🎓 **LearnX Platform**
-
----
-
 ⭐ *Always learning and building cool projects* 
